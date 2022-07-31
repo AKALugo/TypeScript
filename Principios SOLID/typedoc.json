@@ -1,0 +1,20 @@
+{
+    "entryPoints": [
+        "./src/ejercicio-1/combat.ts",
+        "./src/ejercicio-1/dc.ts",
+        "./src/ejercicio-1/marvel.ts",
+        "./src/ejercicio-1/dragonBall.ts",
+        "./src/ejercicio-1/starWars.ts",
+        "./src/ejercicio-1/pokemon.ts",
+        "./src/ejercicio-1/luchador.ts",
+        "./src/ejercicio-1/fighterDex.ts",
+        "./src/ejercicio-2/BasicStreambleCollection.ts",
+        "./src/ejercicio-2/pelicula.ts",
+        "./src/ejercicio-2/series.ts",
+        "./src/ejercicio-2/documental.ts",
+        "./src/ejercicio-3/cesar.ts",
+        "./src/ejercicio-3/cifrar.ts",
+        "./src/ejercicio-3/descifrar.ts"
+    ],
+    "out": "./typedoc"
+}
