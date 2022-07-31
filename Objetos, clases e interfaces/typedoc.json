@@ -1,0 +1,15 @@
+{
+    "entryPoints": [
+        "./src/ejercicio-1/combate.ts",
+        "./src/ejercicio-1/pokedex.ts",
+        "./src/ejercicio-1/pokemon.ts",
+        "./src/ejercicio-2/conecta4.ts",
+        "./src/ejercicio-2/jugador.ts",
+        "./src/ejercicio-2/tablero.ts",
+        "./src/modificacion/asignatura.ts",
+        "./src/modificacion/estudiante.ts",
+        "./src/modificacion/profesor.ts",
+        "./src/modificacion/persona.ts"
+    ],
+    "out": "./typedoc"
+}
